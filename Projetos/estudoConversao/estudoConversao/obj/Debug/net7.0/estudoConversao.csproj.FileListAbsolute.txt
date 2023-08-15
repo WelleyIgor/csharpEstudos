@@ -1,0 +1,15 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\bin\Debug\net7.0\estudoConversao.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\bin\Debug\net7.0\estudoConversao.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\bin\Debug\net7.0\estudoConversao.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\bin\Debug\net7.0\estudoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\bin\Debug\net7.0\estudoConversao.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.csproj.AssemblyReference.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\refint\estudoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\estudoConversao.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\estudoConversao\estudoConversao\obj\Debug\net7.0\ref\estudoConversao.dll

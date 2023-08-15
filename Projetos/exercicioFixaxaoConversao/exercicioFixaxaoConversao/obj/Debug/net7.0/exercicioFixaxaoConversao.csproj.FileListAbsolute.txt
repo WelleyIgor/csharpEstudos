@@ -1,0 +1,15 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\bin\Debug\net7.0\exercicioFixaxaoConversao.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\bin\Debug\net7.0\exercicioFixaxaoConversao.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\bin\Debug\net7.0\exercicioFixaxaoConversao.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\bin\Debug\net7.0\exercicioFixaxaoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\bin\Debug\net7.0\exercicioFixaxaoConversao.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.csproj.AssemblyReference.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\refint\exercicioFixaxaoConversao.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\exercicioFixaxaoConversao.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioFixaxaoConversao\exercicioFixaxaoConversao\obj\Debug\net7.0\ref\exercicioFixaxaoConversao.dll
