@@ -1,0 +1,15 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\bin\Debug\net7.0\exercicioDois.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\bin\Debug\net7.0\exercicioDois.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\bin\Debug\net7.0\exercicioDois.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\bin\Debug\net7.0\exercicioDois.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\bin\Debug\net7.0\exercicioDois.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.csproj.AssemblyReference.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\refint\exercicioDois.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\exercicioDois.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioDois\exercicioDois\obj\Debug\net7.0\ref\exercicioDois.dll
