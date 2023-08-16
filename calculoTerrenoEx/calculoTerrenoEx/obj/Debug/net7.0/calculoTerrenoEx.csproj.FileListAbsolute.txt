@@ -1,0 +1,15 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\bin\Debug\net7.0\calculoTerrenoEx.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\bin\Debug\net7.0\calculoTerrenoEx.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\bin\Debug\net7.0\calculoTerrenoEx.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\bin\Debug\net7.0\calculoTerrenoEx.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\bin\Debug\net7.0\calculoTerrenoEx.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.csproj.AssemblyReference.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\refint\calculoTerrenoEx.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\calculoTerrenoEx.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\calculoTerrenoEx\calculoTerrenoEx\obj\Debug\net7.0\ref\calculoTerrenoEx.dll
