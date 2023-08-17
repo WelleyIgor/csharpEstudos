@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\bin\Debug\net7.0\controleHorasFabrica.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\bin\Debug\net7.0\controleHorasFabrica.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\bin\Debug\net7.0\controleHorasFabrica.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\bin\Debug\net7.0\controleHorasFabrica.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\bin\Debug\net7.0\controleHorasFabrica.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\refint\controleHorasFabrica.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\controleHorasFabrica.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\controleHorasFabrica\controleHorasFabrica\obj\Debug\net7.0\ref\controleHorasFabrica.dll
