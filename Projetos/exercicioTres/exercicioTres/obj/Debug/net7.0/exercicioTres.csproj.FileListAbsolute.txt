@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\bin\Debug\net7.0\exercicioTres.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\bin\Debug\net7.0\exercicioTres.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\bin\Debug\net7.0\exercicioTres.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\bin\Debug\net7.0\exercicioTres.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\bin\Debug\net7.0\exercicioTres.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\refint\exercicioTres.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\exercicioTres.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\exercicioTres\exercicioTres\obj\Debug\net7.0\ref\exercicioTres.dll
