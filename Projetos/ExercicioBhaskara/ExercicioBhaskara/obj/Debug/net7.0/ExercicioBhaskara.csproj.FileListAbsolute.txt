@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\net7.0\ExercicioBhaskara.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\net7.0\ExercicioBhaskara.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\net7.0\ExercicioBhaskara.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\net7.0\ExercicioBhaskara.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\bin\Debug\net7.0\ExercicioBhaskara.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\refint\ExercicioBhaskara.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ExercicioBhaskara.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioBhaskara\ExercicioBhaskara\obj\Debug\net7.0\ref\ExercicioBhaskara.dll
