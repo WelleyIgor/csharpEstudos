@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\bin\Debug\net7.0\LeituraMenorNumero.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\bin\Debug\net7.0\LeituraMenorNumero.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\bin\Debug\net7.0\LeituraMenorNumero.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\bin\Debug\net7.0\LeituraMenorNumero.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\bin\Debug\net7.0\LeituraMenorNumero.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\refint\LeituraMenorNumero.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\LeituraMenorNumero.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\LeituraMenorNumero\LeituraMenorNumero\obj\Debug\net7.0\ref\LeituraMenorNumero.dll
