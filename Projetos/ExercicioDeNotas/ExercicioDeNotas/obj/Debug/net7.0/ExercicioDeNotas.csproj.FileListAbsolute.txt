@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\bin\Debug\net7.0\ExercicioDeNotas.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\bin\Debug\net7.0\ExercicioDeNotas.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\bin\Debug\net7.0\ExercicioDeNotas.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\bin\Debug\net7.0\ExercicioDeNotas.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\bin\Debug\net7.0\ExercicioDeNotas.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\refint\ExercicioDeNotas.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ExercicioDeNotas.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioDeNotas\ExercicioDeNotas\obj\Debug\net7.0\ref\ExercicioDeNotas.dll
