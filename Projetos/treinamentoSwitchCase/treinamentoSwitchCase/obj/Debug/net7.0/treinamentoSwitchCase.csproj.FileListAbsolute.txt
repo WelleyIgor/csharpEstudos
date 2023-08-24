@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\bin\Debug\net7.0\treinamentoSwitchCase.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\bin\Debug\net7.0\treinamentoSwitchCase.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\bin\Debug\net7.0\treinamentoSwitchCase.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\bin\Debug\net7.0\treinamentoSwitchCase.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\bin\Debug\net7.0\treinamentoSwitchCase.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\refint\treinamentoSwitchCase.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\treinamentoSwitchCase.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoSwitchCase\treinamentoSwitchCase\obj\Debug\net7.0\ref\treinamentoSwitchCase.dll
