@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\bin\Debug\net7.0\ExercicioWhile.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\refint\ExercicioWhile.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ExercicioWhile.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\ExercicioWhile\ExercicioWhile\obj\Debug\net7.0\ref\ExercicioWhile.dll
