@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\bin\Debug\net7.0\treinamentoEnquanto.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\bin\Debug\net7.0\treinamentoEnquanto.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\bin\Debug\net7.0\treinamentoEnquanto.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\bin\Debug\net7.0\treinamentoEnquanto.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\bin\Debug\net7.0\treinamentoEnquanto.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\refint\treinamentoEnquanto.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\treinamentoEnquanto.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\treinamentoEnquanto\treinamentoEnquanto\obj\Debug\net7.0\ref\treinamentoEnquanto.dll
