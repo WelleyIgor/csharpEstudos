@@ -1,0 +1,14 @@
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\bin\Debug\net7.0\testeFor.exe
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\bin\Debug\net7.0\testeFor.deps.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\bin\Debug\net7.0\testeFor.runtimeconfig.json
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\bin\Debug\net7.0\testeFor.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\bin\Debug\net7.0\testeFor.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.AssemblyInfoInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.AssemblyInfo.cs
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.csproj.CoreCompileInputs.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\refint\testeFor.dll
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.pdb
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\testeFor.genruntimeconfig.cache
+C:\Users\WELLEY\Desktop\Welley\Projetos\testeFor\testeFor\obj\Debug\net7.0\ref\testeFor.dll
